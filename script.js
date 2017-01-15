@@ -1,8 +1,8 @@
 // ==UserScript== 
-// @name Predict color Polygon 
+// @name Predict color
 // @namespace 
-// @version 0.5 
-// @author MC вол 
+// @version 1.0 release 
+// @author pred
 // @match http://csgopolygon.com/* 
 // @grant none 
 // ==/UserScript== 
